@@ -20,6 +20,12 @@ pip install torchattacks
  
 The original paper implemented the attacks using a VGG 19 model. However, due to memory constraints I did it using ResNet 18. Here I have provided a fine-tuned version of ResNet 18 which is pre-trained on ImageNet. It can be downloaded using [this](https://drive.google.com/file/d/1bG5G-fgTahyuD8QdDd6yU-HWPMI_VXE7/view?usp=sharing) link. 
 
+## RCT Maps
+
+CW             |  FGSM       |  PGD
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/sarosijbose/RobustFreqCNN/blob/main/imgs/cw.png)  |  ![](https://github.com/sarosijbose/RobustFreqCNN/blob/main/imgs/fgsm.png)|  ![](https://github.com/sarosijbose/RobustFreqCNN/blob/main/imgs/pgd.png)
+
 ## Disclaimer
 
 This is not an official implementation of the paper. I am not associated with the authors of the paper or Lab in any manner whatsoever and I don't claim credit for any of the algorithms proposed in the paper. 

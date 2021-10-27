@@ -6,7 +6,19 @@ This repository contains the implementation of the paper "Towards Frequency-Base
 
 ## Steps
 
-*To be filled here soon.
+1. It is recommended to setup a fresh virtual environment first.
+```bash
+python -m venv env
+source activate env/bin/activate
+```
+2. Install the torchattacks package
+
+```bash
+pip install torchattacks
+```
+3. Run the ```main.py``` file. 
+ 
+The original paper implemented the attacks using a VGG 19 model. However, due to memory constraints I did it using ResNet 18. Here I have provided a fine-tuned version of ResNet 18 which is pre-trained on ImageNet. It can be downloaded using [this](https://drive.google.com/file/d/1bG5G-fgTahyuD8QdDd6yU-HWPMI_VXE7/view?usp=sharing) link. 
 
 ## Disclaimer
 

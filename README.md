@@ -2,7 +2,7 @@
 
 ## About
 
-This repository contains the implementation of the paper "Towards Frequency-Based Explanation for Robust CNN" ([link](https://arxiv.org/pdf/2005.03141.pdf)). 
+This repository contains the implementation of the paper "Towards Frequency-Based Explanation for Robust CNN" [arxiv](https://arxiv.org/pdf/2005.03141.pdf). It primarly deals the extent to which image features are robust in the frequency domain. 
 
 ## Steps
 

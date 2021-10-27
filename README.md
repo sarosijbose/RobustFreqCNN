@@ -10,4 +10,4 @@ This repository contains the implementation of the paper "Towards Frequency-Base
 
 ## Disclaimer
 
-This is not a official implementation of the paper. I am not associated with the authors of the paper or Lab in any manner whatsoever and I don't claim credit for any of the algorithms proposed in the paper. 
+This is not an official implementation of the paper. I am not associated with the authors of the paper or Lab in any manner whatsoever and I don't claim credit for any of the algorithms proposed in the paper. 
